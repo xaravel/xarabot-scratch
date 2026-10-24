@@ -1,0 +1,6 @@
+schema_version: 1
+runner_version: "canary"
+maintainer: "edanisko"
+standing_authority_path: docs/maintainer/standing-authority.md
+manifests:
+  dir: stories

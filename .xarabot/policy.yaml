@@ -1,0 +1,3 @@
+schema_version: 1
+unattended_adapters: [claude]
+expected_checks: [check]

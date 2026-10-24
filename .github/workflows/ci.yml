@@ -1,12 +1,7 @@
-# A required check for Xarabot's live contract tests (Stories 1.8 and 1.10): the merge queue and
-# CI polling need a real check to wait on. It always passes.
 name: CI
 
 on:
-  push:
-    branches: [main]
   pull_request:
-    branches: [main]
   merge_group:
 
 permissions:
@@ -17,4 +12,4 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - run: echo "scratch check passes"
+      - run: echo ok
