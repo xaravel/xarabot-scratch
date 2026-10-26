@@ -6,7 +6,7 @@ followup_review_recommended: false
 
 # Story 1.6: a scratch build
 
-Built 1-6-xv-claude-1fc86549: wrote verify/1-6-xv-claude-1fc86549.md.
+Built 1-6-xv-codex-207d54b0: wrote verify/1-6-xv-codex-207d54b0.md.
 
 ## Auto Run Result
 
