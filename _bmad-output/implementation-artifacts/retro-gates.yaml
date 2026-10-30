@@ -1,0 +1,23 @@
+schema_version: 1
+epics:
+  "8":
+    checkpoint:
+      go:
+        by: "edanisko"
+        at: "2026-10-19T00:00:00Z"
+        ruling: "maintainer-pr"
+  "9":
+    retro:
+      verdict: accepted
+      unit: "retro:9"
+      recorded_at: "2026-10-20T00:00:00Z"
+  "10":
+    retro:
+      verdict: accepted
+      unit: "retro:10"
+      recorded_at: "2026-10-20T00:00:00Z"
+    checkpoint:
+      go:
+        by: "edanisko"
+        at: "2026-10-30T02:17:28Z"
+        ruling: "6513325056"
